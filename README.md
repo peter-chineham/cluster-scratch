@@ -9,4 +9,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 ***cluster*** is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on a work at https://github.com/peter-chineham/cluster
+Based on a work at https://github.com/peter-chineham/cluster-scratch
