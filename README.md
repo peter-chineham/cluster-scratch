@@ -1,4 +1,4 @@
-# cluster
+# cluster-scratch
 An implementation of the Add heuristic in Scratch
 
 ## Licence
